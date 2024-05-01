@@ -1,0 +1,15 @@
+h1{
+    color: white;
+
+}
+
+.name{
+    color: indianred;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    background-color: black;
+}
+
